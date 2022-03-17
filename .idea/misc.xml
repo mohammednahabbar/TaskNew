@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ProjectGooglePlay/TaskNew/app/src/main/res/drawable-v24/bg_tab_main.xml" value="0.132" />
+        <entry key="..\:/ProjectGooglePlay/TaskNew/app/src/main/res/drawable-v24/tab_not_selector.xml" value="0.132" />
         <entry key="..\:/ProjectGooglePlay/TaskNew/app/src/main/res/drawable/bg_image_header.xml" value="0.132" />
+        <entry key="..\:/ProjectGooglePlay/TaskNew/app/src/main/res/drawable/bg_tab_layout_main.xml" value="0.132" />
+        <entry key="..\:/ProjectGooglePlay/TaskNew/app/src/main/res/drawable/tab_selector.xml" value="0.132" />
         <entry key="..\:/ProjectGooglePlay/TaskNew/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/ProjectGooglePlay/TaskNew/app/src/main/res/layout/custom_tab.xml" value="0.18802083333333333" />
         <entry key="..\:/ProjectGooglePlay/TaskNew/app/src/main/res/layout/fragment_hotels.xml" value="0.18802083333333333" />
         <entry key="..\:/ProjectGooglePlay/TaskNew/app/src/main/res/layout/fragment_overview.xml" value="0.18802083333333333" />
         <entry key="..\:/ProjectGooglePlay/TaskNew/app/src/main/res/layout/fragment_transportation.xml" value="0.18802083333333333" />
