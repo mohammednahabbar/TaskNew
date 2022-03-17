@@ -1,8 +1,10 @@
-package com.biosteam99.tasknew;
+package com.biosteam99.tasknew.view.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.biosteam99.tasknew.R;
 
 public class MainActivity extends AppCompatActivity {
 
